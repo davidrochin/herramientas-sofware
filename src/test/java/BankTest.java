@@ -24,7 +24,7 @@ public class BankTest {
         
         // Creamos y registramos el cliente de prueba en el banco
         client = new Client();
-        bank.addClient(client);
+        bank.addClient(cligent);
     }
         
     // Tests -------------------------------------------------------------------
